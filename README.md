@@ -9,8 +9,7 @@ The project includes the following components:
 * **`Deploy diabtes prediction Model using streamlit.ipynb`**: A Jupyter Notebook detailing the process of building and deploying the diabetes prediction model using Streamlit. It covers data loading, preprocessing, model training (using a Support Vector Machine), model evaluation, and saving the trained model.
 * **`diabtes prediction web app.py`**: The Python script for the Streamlit web application. It loads the trained model, creates a user interface with input fields for relevant health features, and displays the prediction result.
 * **`predictive system.py`**: A standalone Python script that demonstrates how to load the saved model and make predictions for sample input data.
-* **`trained_model.sav`**: (This file is assumed to be present, as mentioned in the code) The saved, trained machine learning model in a pickle format.
-* **`requirements.txt`**: (This file is expected) A list of Python libraries required to run the application. This allows for easy installation of dependencies.
+* **`trained_model.sav`**: The saved, trained machine learning model in a pickle format.
 
 ## Setup and Usage
 
@@ -18,8 +17,8 @@ Follow these steps to run the diabetes prediction web application locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone <[repository_url](https://github.com/A-boo-Bae/Diabetes-Prediction-Web-Application/tree/main)>
+    cd <Diabetes-Prediction-Web-Application>
     ```
     Replace `<repository_url>` with the actual URL of your GitHub repository and `<repository_name>` with the name of the cloned directory.
 
